@@ -1,0 +1,34 @@
+{
+  "sources": [
+    {
+      "name": "Rajesh Kumar Gnanasekaran; Priyanka Baskaran", 
+      "email": "rgnanase@umd.edu; priyab27@umd.edu"
+    }
+  ], 
+  "description": "This data set contains a list of Olympic medals won by USA athletes between 2000 and 2012. The data elements are Athlete name, Year, Age, Country, Gold, Silver, Bronze, Total medals. Source of this data set from http://www.tableau.com/public/community/sample-data-sets.", 
+  "license": {
+    "url": "http://www.opendefinition.org/licenses/cc-by-sa", 
+    "type": "cc-by-sa", 
+    "title": "Creative Commons Attribution Share-Alike"
+  }, 
+  "title": "Olympic_medal_winners_list_2000_2012_USA", 
+  "keywords": [
+    "USA", 
+    "olympic", 
+    "sports"
+  ], 
+  "author": {
+    "name": "Rajesh Kumar Gnanasekaran; Priyanka Baskaran", 
+    "email": "rgnanase@umd.edu; priyab27@umd.edu"
+  }, 
+  "resources": [
+    {
+      "url": "https://ckannet-storage.commondatastorage.googleapis.com/2015-03-06T13:47:06.721Z/olympicathletes-subset.xlsx", 
+      "title": "Olympic medal winners list 2000 - 2012 USA", 
+      "description": "Link for the data set worked from:\r\nhttp://www.tableau.com/public/community/sample-data-sets \r\nNOTE: In this link, download the xlsx file in the name \"OlympicsAthletes.xlsx\" under \"Medals Won by Olympic Athletes\" section. \r\nDirect hyperlink to download the xlsx file:\r\nhttp://www.tableausoftware.com/public/sites/default/files/OlympicAthletes_0.xlsx \r\nURL for the sub set of the data set produced: NOTE: Download the Info.Organization.zip file and use the files.\r\nhttps://github.com/rgnanase/Olympics-Medal-Winning-Pattern-2000_2012-USA/releases\r\nProposed Question from looking after the data: Is there a pattern on how Olympic athletes won medals as they grew old? Have they won less medals because of physical & mental wear and tear \r\n\r\nas they grow old, or have they won more medals as they gain more experience?\r\nLicense information:\r\n<a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\"><img alt=\"Creative Commons License\" style=\"border-width:0\" src=\"https://i.creativecommons.org/l/by-\r\n\r\nsa/4.0/88x31.png\"/></a><br />This work is licensed under a <a rel=\"license\" href=\"http://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0 International \r\n\r\nLicense</a>. CC-BY-SA Rajesh & Priyanka, 2015; original data (c) Sports Reference, retrieved from http://www.sports-reference.com/olympics/ via \r\n\r\nhttp://www.tableau.com/public/community/sample-data-sets\r\nCitation for the data created:\r\nWiki username: rgnanase\r\nURL for the wiki page created: http://wiki.urbanhogfarm.com/index.php/Olympic_medal_winning_pattern_2000_-_2012_USA", 
+      "name": "olympic-medal-winners-list-2000-2012-usa", 
+      "format": "XLSX"
+    }
+  ], 
+  "name": "olympic-medal-winners-list-2000-2012-usa"
+}
